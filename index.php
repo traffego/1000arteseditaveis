@@ -12,15 +12,35 @@
 </head>
 <body>
     <div class="container">
-        <!-- Banner -->
-        <div class="banner">
-            <img src="assets/banner.png" alt="1000 Artes Editáveis no Canva">
+        <!-- Hero Section -->
+        <div class="hero">
+            <h1 class="hero-title">📦 1000 Artes Editáveis</h1>
+            <p class="hero-subtitle">Pack completo para Canva • Feed, Stories, Anúncios e Ofertas</p>
+            
+            <div class="trust-badges">
+                <div class="trust-badge">
+                    <span class="trust-icon">🔒</span>
+                    <span>Site Seguro</span>
+                </div>
+                <div class="trust-badge">
+                    <span class="trust-icon">⚡</span>
+                    <span>Entrega Imediata</span>
+                </div>
+                <div class="trust-badge">
+                    <span class="trust-icon">🏢</span>
+                    <span>CNPJ Ativo</span>
+                </div>
+                <div class="trust-badge">
+                    <span class="trust-icon">✅</span>
+                    <span>Garantia 7 dias</span>
+                </div>
+            </div>
         </div>
         
         <!-- Checkout Card -->
         <div class="card">
             <div class="card-header">
-                <h1 class="card-title">Finalizar Compra</h1>
+                <h2 class="card-title">Finalizar Compra</h2>
                 <p class="card-description">Preencha seus dados para receber o acesso</p>
             </div>
             
@@ -64,7 +84,11 @@
         
         <!-- Footer -->
         <footer class="footer">
-            <p>© 2024 1000 Artes Editáveis. Todos os direitos reservados.</p>
+            <div class="company-info">
+                <p><strong>Traffego - Assessoria de Marketing Ltda</strong></p>
+                <p>CNPJ: 46.143.888/0001-12</p>
+            </div>
+            <p>© 2024 Traffego. Todos os direitos reservados.</p>
         </footer>
     </div>
     
