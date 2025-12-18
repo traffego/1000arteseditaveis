@@ -5,9 +5,9 @@
 
 // Configurações do Banco de Dados
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'checkout_1000artes');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_NAME', 'platafo5_1000artes');
+define('DB_USER', 'platafo5_1000artes');
+define('DB_PASS', 'Traffego444#');
 define('DB_CHARSET', 'utf8mb4');
 
 // Configurações da API EFI Bank (Produção)
