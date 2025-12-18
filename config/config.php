@@ -22,7 +22,7 @@ define('EFI_API_URL', 'https://pix.api.efipay.com.br'); // Produção
 
 // Configurações do Produto
 define('PRODUCT_NAME', '1000 Artes Editáveis no Canva');
-define('PRODUCT_PRICE', 9.90);
+define('PRODUCT_PRICE', 0.01);
 define('PRODUCT_DESCRIPTION', 'Pack com 1000 artes editáveis para Canva');
 
 // Configurações do Sistema
