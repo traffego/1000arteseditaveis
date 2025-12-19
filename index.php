@@ -11,9 +11,9 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <div class="container">
-        <!-- Hero Section -->
-        <div class="hero">
+    <!-- Hero Section - Full Width -->
+    <div class="hero">
+        <div class="hero-content">
             <h1 class="hero-title">📦 1000 Artes Editáveis</h1>
             <p class="hero-subtitle">Pack completo para Canva • Feed, Stories, Anúncios e Ofertas</p>
             
@@ -35,8 +35,16 @@
                     <span>Garantia 7 dias</span>
                 </div>
             </div>
+            
+            <div class="hero-company">
+                <p><strong>Traffego - Assessoria de Marketing Ltda</strong></p>
+                <p>CNPJ: 46.143.888/0001-12</p>
+                <p>📍 Rua Visconde de Pirajá, 414 - Ipanema, Rio de Janeiro - RJ, 22.410-905</p>
+            </div>
         </div>
-        
+    </div>
+    
+    <div class="container">
         <!-- Checkout Card -->
         <div class="card">
             <div class="card-header">
@@ -70,7 +78,7 @@
                 
                 <!-- Info box -->
                 <div class="info-box">
-                    <p>📲 <strong>Importante:</strong> O link para download aparecerá na tela assim que o pagamento for confirmado. Entrega imediata!</p>
+                    <p>📲 <strong>Importante:</strong> Após o pagamento, você receberá um <strong>PDF com todos os links</strong> para acessar as 1000 artes editáveis no Canva. O download aparecerá na tela imediatamente!</p>
                 </div>
                 
                 <div class="security-badge">
